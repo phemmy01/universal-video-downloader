@@ -5,7 +5,7 @@ Copyright holder in LICENSE file
 
 Creator credit in README header
 
-GitHub profile link: https://github.com/KYOP
+GitHub profile link: https://github.com/KYOOOOP
 
 "Made with ❤️ by KYOP" in footer
 
