@@ -8,6 +8,7 @@ Creator credit in README header
 GitHub profile link: https://github.com/KYOOOOP
 
 "Made with ❤️ by KYOP" in footer
+<img width="701" height="844" alt="image" src="https://github.com/user-attachments/assets/04640782-c5e5-435f-9f50-bda0a93294a3" />
 
 Detailed Windows Installation:
 Step-by-step Python installation
