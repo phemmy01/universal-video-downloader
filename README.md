@@ -39,7 +39,10 @@
 - FFmpeg auto-detection with fallbacks
 - Rate limiting and security features
 - Auto-cleanup after 2 hours
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa0ca0b-b34a-4d5c-9c8e-2310bc46e2fa" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/KYOP/universal-video-downloader/main/banner.png" alt="Universal Video Downloader" width="701" height="844">
+</div>
+
 
 ---
 
