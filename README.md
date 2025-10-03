@@ -6,8 +6,8 @@
 ![Quality](https://img.shields.io/badge/Quality-360p%20to%204K-green?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-1000%2B-red?style=for-the-badge)
 ![Free](https://img.shields.io/badge/Hosting-Free-brightgreen?style=for-the-badge)
+![youtube](https://youtu.be/0wkS79Bt1Lo)
 
-https://youtu.be/0wkS79Bt1Lo
 **Download videos from ANY platform with intelligent quality selection and dynamic interface**
 
 </div>
