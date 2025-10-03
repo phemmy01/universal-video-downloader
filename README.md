@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Video Downloader Banner]([https://img.shields.io/badge/Universal-Video%20Downloader-blue?style=for-the-badge&logo=youtube](https://youtu.be/0wkS79Bt1Lo))
+![Video Downloader Banner]([(https://youtu.be/0wkS79Bt1Lo))
 ![Quality](https://img.shields.io/badge/Quality-360p%20to%204K-green?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-1000%2B-red?style=for-the-badge)
 ![Free](https://img.shields.io/badge/Hosting-Free-brightgreen?style=for-the-badge)
