@@ -39,7 +39,7 @@
 - FFmpeg auto-detection with fallbacks
 - Rate limiting and security features
 - Auto-cleanup after 2 hours
-<img width="928" height="1120" alt="image" src="https://github.com/user-attachments/assets/0fa0ca0b-b34a-4d5c-9c8e-2310bc46e2fa" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0fa0ca0b-b34a-4d5c-9c8e-2310bc46e2fa" />
 
 ---
 
