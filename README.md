@@ -40,8 +40,7 @@
 - Rate limiting and security features
 - Auto-cleanup after 2 hours
 <div align="center">
-<img src="https://raw.githubusercontent.com/KYOP/universal-video-downloader/main/banner.png" alt="Universal Video Downloader" width="701" height="844">
-</div>
+<img width="701" height="844" alt="image" src="https://github.com/user-attachments/assets/cec676a8-187e-4c9c-a142-e90b62c61221" />
 
 
 ---
